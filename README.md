@@ -1,8 +1,8 @@
 - 👋 Hi, I’m  Anamika Mishra
-- 👀 I’m interested in Full Stack Web Development and Flutter App Development.
-- 🌱 I’m currently learning Full Stack Development.
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently working as a Full Stack Developer.
 - 💞️ I’m looking to collaborate on Application and Web Development.
-- 📫 How to reach me Ping me on my email anamikahello21@gmail.com
+
 
 <!---
 Ana-221/Ana-221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
